@@ -1,0 +1,9 @@
+D:\GIT\Telephone\Telephone\Telephone\bin\Debug\Telephone.exe.config
+D:\GIT\Telephone\Telephone\Telephone\bin\Debug\Telephone.exe
+D:\GIT\Telephone\Telephone\Telephone\bin\Debug\Telephone.pdb
+D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.Properties.Resources.resources
+D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource.Cache
+D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
+D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.exe
+D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.pdb
