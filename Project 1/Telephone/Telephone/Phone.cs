@@ -27,5 +27,20 @@ namespace Telephone
            // this.ActiveControl = textBox2;   this for forcus tab
             //textBox2.Focus();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "";
+            textBox2.Clear();
+            textBox3.Text = "";
+            textBox4.Clear();
+            comboBox1.SelectedIndex = 0;
+            textBox3.Focus();
+        }
+
+        private void textBox3_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
