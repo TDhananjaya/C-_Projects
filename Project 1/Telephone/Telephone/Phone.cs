@@ -21,5 +21,11 @@ namespace Telephone
         {
 
         }
+
+        private void Phone_Load(object sender, EventArgs e)
+        {
+           // this.ActiveControl = textBox2;   this for forcus tab
+            //textBox2.Focus();
+        }
     }
 }

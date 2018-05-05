@@ -7,3 +7,4 @@ D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.csproj.GenerateResource
 D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInputs.cache
 D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.exe
 D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.pdb
+D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.Phone.resources
