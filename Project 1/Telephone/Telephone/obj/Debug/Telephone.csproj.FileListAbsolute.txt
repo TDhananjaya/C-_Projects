@@ -8,3 +8,6 @@ D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.csproj.CoreCompileInput
 D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.exe
 D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.pdb
 D:\GIT\Telephone\Telephone\Telephone\obj\Debug\Telephone.Phone.resources
+D:\GIT\Telephone\Telephone\Telephone\bin\Debug\MySql.Data.dll
+D:\GIT\Telephone\Telephone\Telephone\bin\Debug\Google.Protobuf.dll
+D:\GIT\Telephone\Telephone\Telephone\bin\Debug\MySql.Data.xml
