@@ -7,11 +7,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
+using MySql.Data.MySqlClient;
+
 
 namespace Telephone
 {
     public partial class Phone : Form
     {
+
         public Phone()
         {
             InitializeComponent();
@@ -41,6 +45,25 @@ namespace Telephone
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DBConnection();
+        }
+        private void DBConnection()
+        {
+            String ConnectString = "datasource = localhost; port=3306; username = root; password=; databasename=phone";
+            MySqlConnection DBConnect = new MySqlConnection(ConnectString);
+            try
+            {
+                DBConnect.Open();
+                MessageBox.Show("Ok You Are Connected");
+
+            }catch(Exception e)
+            {
+                MessageBox.Show(e.Message);
+            }
         }
     }
 }
